@@ -1,0 +1,101 @@
+id,name,category,base_price,cost,shelf_life_days,uom,barcode
+1,Full Cream Milk 1L,Dairy,68.0,48.0,7,pc,890100000001
+2,Greek Yogurt 400g,Dairy,95.0,68.0,12,pc,890100000002
+3,Paneer Fresh 200g,Dairy,110.0,82.0,10,pc,890100000003
+4,Butter Salted 500g,Dairy,275.0,215.0,60,pc,890100000004
+5,Cheddar Cheese 200g,Dairy,185.0,135.0,45,pc,890100000005
+6,Multigrain Bread 400g,Bakery,45.0,30.0,4,pc,890100000006
+7,Sourdough Artisanal Loaf,Bakery,95.0,60.0,4,pc,890100000007
+8,Butter Croissants 4pk,Bakery,140.0,92.0,3,pack,890100000008
+9,Whole Wheat Buns 6pk,Bakery,40.0,26.0,4,pack,890100000009
+10,Vanilla Pound Cake,Bakery,120.0,75.0,6,pc,890100000010
+11,Baby Spinach 250g,Fresh Produce,35.0,22.0,5,pc,890100000011
+12,Cherry Tomatoes 500g,Fresh Produce,70.0,44.0,6,pc,890100000012
+13,Broccoli Florets 500g,Fresh Produce,85.0,55.0,5,pc,890100000013
+14,Crisp Salad Greens 200g,Fresh Produce,55.0,34.0,4,pc,890100000014
+15,English Cucumbers 1kg,Fresh Produce,40.0,25.0,7,pc,890100000015
+16,Alphonso Mango Pulp 1L,Beverages,190.0,130.0,180,pc,890100000016
+17,Cold Pressed Orange Juice,Beverages,120.0,82.0,14,pc,890100000017
+18,Sparkling Mineral Water 750ml,Beverages,65.0,38.0,365,pc,890100000018
+19,Green Tea Leaves 250g,Beverages,240.0,155.0,365,pc,890100000019
+20,Roasted Filter Coffee 500g,Beverages,350.0,240.0,180,pc,890100000020
+21,Organic Sweet Corn 400g,Canned Goods,85.0,52.0,730,pc,890100000021
+22,Red Kidney Beans 400g,Canned Goods,75.0,46.0,730,pc,890100000022
+23,Chopped Italian Tomatoes,Canned Goods,95.0,58.0,730,pc,890100000023
+24,Coconut Milk 400ml,Canned Goods,110.0,72.0,540,pc,890100000024
+25,Baked Beans in Tomato Sauce,Canned Goods,80.0,50.0,730,pc,890100000025
+26,Sea Salt Roasted Almonds 200g,Snacks,280.0,195.0,180,pc,890100000026
+27,Peri Peri Makhana 100g,Snacks,140.0,92.0,120,pc,890100000027
+28,Dark Chocolate Granola 350g,Snacks,295.0,190.0,150,pc,890100000028
+29,Baked Multigrain Chips 150g,Snacks,60.0,38.0,120,pc,890100000029
+30,Trail Mix Superfood 250g,Snacks,320.0,220.0,180,pc,890100000030
+31,Green Peas Tender 1kg,Frozen,140.0,95.0,365,pc,890100000031
+32,Sweet Corn Kernels 500g,Frozen,95.0,62.0,365,pc,890100000032
+33,Mixed Vegetable Medley 1kg,Frozen,165.0,110.0,365,pc,890100000033
+34,French Fries Classic 1.2kg,Frozen,210.0,140.0,270,pc,890100000034
+35,Vegetable Spring Rolls 500g,Frozen,180.0,118.0,270,pc,890100000035
+36,Product 36 (Frozen),Frozen,337.44,219.93,360,pc,890100000036
+37,Product 37 (Frozen),Frozen,95.52,53.48,211,pc,890100000037
+38,Product 38 (Canned Goods),Canned Goods,90.0,59.46,464,pc,890100000038
+39,Product 39 (Canned Goods),Canned Goods,333.24,236.45,622,pc,890100000039
+40,Product 40 (Bakery),Bakery,107.03,64.4,6,pc,890100000040
+41,Product 41 (Snacks),Snacks,152.32,99.62,178,pc,890100000041
+42,Product 42 (Bakery),Bakery,438.98,258.81,6,pc,890100000042
+43,Product 43 (Snacks),Snacks,289.72,178.18,136,pc,890100000043
+44,Product 44 (Beverages),Beverages,226.04,157.37,183,pc,890100000044
+45,Product 45 (Frozen),Frozen,219.21,121.06,110,pc,890100000045
+46,Product 46 (Dairy),Dairy,266.58,164.09,10,pc,890100000046
+47,Product 47 (Bakery),Bakery,126.98,75.04,7,pc,890100000047
+48,Product 48 (Beverages),Beverages,286.2,197.95,318,pc,890100000048
+49,Product 49 (Fresh Produce),Fresh Produce,194.25,112.86,9,pc,890100000049
+50,Product 50 (Beverages),Beverages,208.57,122.09,121,pc,890100000050
+51,Product 51 (Beverages),Beverages,43.15,29.91,173,pc,890100000051
+52,Product 52 (Beverages),Beverages,195.96,138.65,281,pc,890100000052
+53,Product 53 (Frozen),Frozen,67.17,39.18,360,pc,890100000053
+54,Product 54 (Dairy),Dairy,166.64,102.66,12,pc,890100000054
+55,Product 55 (Bakery),Bakery,276.44,197.4,7,pc,890100000055
+56,Product 56 (Beverages),Beverages,145.92,87.61,243,pc,890100000056
+57,Product 57 (Canned Goods),Canned Goods,36.57,22.75,429,pc,890100000057
+58,Product 58 (Dairy),Dairy,153.27,84.67,10,pc,890100000058
+59,Product 59 (Fresh Produce),Fresh Produce,328.76,224.98,4,pc,890100000059
+60,Product 60 (Fresh Produce),Fresh Produce,419.05,276.86,8,pc,890100000060
+61,Product 61 (Beverages),Beverages,387.02,242.43,254,pc,890100000061
+62,Product 62 (Dairy),Dairy,185.74,123.28,14,pc,890100000062
+63,Product 63 (Canned Goods),Canned Goods,278.35,166.09,463,pc,890100000063
+64,Product 64 (Fresh Produce),Fresh Produce,190.83,136.48,4,pc,890100000064
+65,Product 65 (Fresh Produce),Fresh Produce,333.13,196.59,4,pc,890100000065
+66,Product 66 (Snacks),Snacks,249.55,155.39,116,pc,890100000066
+67,Product 67 (Bakery),Bakery,75.31,41.82,6,pc,890100000067
+68,Product 68 (Frozen),Frozen,162.03,103.13,330,pc,890100000068
+69,Product 69 (Snacks),Snacks,283.86,182.17,112,pc,890100000069
+70,Product 70 (Canned Goods),Canned Goods,426.0,277.67,400,pc,890100000070
+71,Product 71 (Fresh Produce),Fresh Produce,399.8,262.32,9,pc,890100000071
+72,Product 72 (Snacks),Snacks,74.31,46.64,146,pc,890100000072
+73,Product 73 (Beverages),Beverages,204.93,143.48,163,pc,890100000073
+74,Product 74 (Bakery),Bakery,179.65,126.5,6,pc,890100000074
+75,Product 75 (Dairy),Dairy,302.03,166.14,7,pc,890100000075
+76,Product 76 (Canned Goods),Canned Goods,158.01,91.33,597,pc,890100000076
+77,Product 77 (Fresh Produce),Fresh Produce,233.63,156.0,4,pc,890100000077
+78,Product 78 (Bakery),Bakery,132.53,76.68,6,pc,890100000078
+79,Product 79 (Dairy),Dairy,182.72,130.68,10,pc,890100000079
+80,Product 80 (Beverages),Beverages,135.75,86.14,131,pc,890100000080
+81,Product 81 (Dairy),Dairy,149.63,83.23,11,pc,890100000081
+82,Product 82 (Dairy),Dairy,241.13,134.73,8,pc,890100000082
+83,Product 83 (Canned Goods),Canned Goods,411.47,243.07,588,pc,890100000083
+84,Product 84 (Bakery),Bakery,235.57,169.04,7,pc,890100000084
+85,Product 85 (Frozen),Frozen,185.25,109.51,292,pc,890100000085
+86,Product 86 (Snacks),Snacks,227.53,163.18,113,pc,890100000086
+87,Product 87 (Snacks),Snacks,372.9,255.7,100,pc,890100000087
+88,Product 88 (Dairy),Dairy,243.44,162.69,10,pc,890100000088
+89,Product 89 (Fresh Produce),Fresh Produce,166.9,98.04,7,pc,890100000089
+90,Product 90 (Bakery),Bakery,369.99,225.42,5,pc,890100000090
+91,Product 91 (Frozen),Frozen,247.46,171.34,217,pc,890100000091
+92,Product 92 (Fresh Produce),Fresh Produce,338.79,198.38,7,pc,890100000092
+93,Product 93 (Frozen),Frozen,125.99,73.04,188,pc,890100000093
+94,Product 94 (Dairy),Dairy,252.45,149.23,10,pc,890100000094
+95,Product 95 (Snacks),Snacks,264.48,185.15,101,pc,890100000095
+96,Product 96 (Frozen),Frozen,147.13,98.44,98,pc,890100000096
+97,Product 97 (Fresh Produce),Fresh Produce,402.58,274.79,7,pc,890100000097
+98,Product 98 (Beverages),Beverages,422.97,289.1,194,pc,890100000098
+99,Product 99 (Beverages),Beverages,186.36,132.28,346,pc,890100000099
+100,Product 100 (Dairy),Dairy,149.25,89.84,11,pc,890100000100
